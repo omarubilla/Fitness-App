@@ -13,7 +13,7 @@ Forma Max allows users to delete specific data, such as meals and nutrition logs
 
 If you are unable to access the app, you can request data deletion by emailing:
 
-**[support@formamax.ai](mailto:support@formamax.ai)**
+**[support@formamax.ai](mailto:kevin@backfield.ai)**
 
 Include:
 
@@ -35,4 +35,4 @@ Include:
 * Deleted data is removed immediately or within a short processing period
 * Some data may be retained for up to 30 days for system integrity
 
-If you have any questions, contact **[support@formamax.ai](mailto:support@formamax.ai)**
+If you have any questions, contact **[support@formamax.ai](mailto:kevin@backfield.ai)**
